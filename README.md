@@ -5,6 +5,7 @@
 
 <p align="center">
     <a href="https://github.com/sindresorhus/awesome"><img src="https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg" alt="Awesome"/></a>
+ <a href='https://ko-fi.com/S6S315DNI' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://az743702.vo.msecnd.net/cdn/kofi5.png?v=2' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
     <a href="https://travis-ci.org/ellisonleao/magictools"><img src="https://travis-ci.org/ellisonleao/magictools.svg?branch=master" alt="build"/></a>
 </p>
 
@@ -68,6 +69,7 @@ Graphics
 * :free: [Iconmonstr](http://iconmonstr.com/) - Another free icons resource for your games.
 * :money_with_wings: [Kenney Assets](http://kenney.nl/assets) - Royalty free assets
 * :free: [Liberated Pixel Cup assets](http://lpc.opengameart.org) - Free graphic assets of the Liberated Pixel Cup (LPC) held by the OpenGameArt forums
+* :free: [Matcaps](https://github.com/nidorx/matcaps#matcaps) - A Huge library of matcap textures in PNG and ZMT, organized by color.
 * :free: [OpenClipart](https://openclipart.org/) -  Collection of free cliparts.
 * :free: [OpenGameArt](http://opengameart.org/) -  a media repository intended for use with free software game projects.
 * :moneybag: [Oryx Design Lab](http://oryxdesignlab.com/) - Cheap high quality royalty free sprites
@@ -111,7 +113,6 @@ Graphics
 #### Character Generators
 
 * :free: [Charas](http://charas-project.net/index.php) - Charas is a charset generator for RPG Maker.
-* :free: [Loose Leaf](http://www.geocities.jp/kurororo4/looseleaf/) - Sprite character generator
 * :tada: [Universal LPC Sprite Sheet Character Generator](http://gaurav.munjal.us/Universal-LPC-Spritesheet-Character-Generator) - Sprite character generator based on the LPC (Liberated Pixel Cup) graphics
 
 #### Tile/Level Editors
@@ -129,6 +130,7 @@ Graphics
 * :moneybag: [Spriter](http://www.brashmonkey.com/spriter.htm) -  Modern tool for sprite animation.
 * :tada: [DragonBones](http://dragonbones.com) - The Open Source 2D skeleton animation solution for Flash
 * :tada: [LWF](http://gree.github.io/lwf/) - Lightweight SWF. LWF is an animation engine which can play animation data converted from FLASH contents in HTML5, Unity, Cocos2d-x, iOS UIKit, and more.
+* :moneybag: [Mixamo](https://www.mixamo.com/#/) - tool for auto auto rigging and animation of 3D humanoid models,
 
 #### Vector/Image Editor
 
@@ -179,7 +181,7 @@ Graphics
 #### Voxel Editors
 
 * :tada: [goxel](https://github.com/guillaumechereau/goxel)
-* :tada: [MagicaVoxel](https://ephtracy.github.io/)
+* :free: [MagicaVoxel](https://ephtracy.github.io/)
 * :free: [Q-Block](http://kyucon.com/qblock/)
 * :free: [Sproxel](http://sproxel.blogspot.com.br/)
 * :tada: [VoxelShop](https://blackflux.com/index.php)
@@ -224,6 +226,7 @@ Code
 * :tada: [ENGi](https://github.com/ajhager/engi) - A multi-platform 2D game library for Go.
 * :tada: [engo](https://engoengine.github.io/) - Engo is an open-source 2D game engine written in Go.
 * :tada: [Ebiten](https://ebiten.org/) - A dead simple 2D game library in Go.
+* :tada: [ecs-lib](https://github.com/nidorx/ecs-lib#readme) - **ecs-lib** is a tiny and easy to use ECS (Entity Component System) library for game programming. It's written in Typescript but you can use on node.js and web browser too.
 * :tada: [Ejecta](http://impactjs.com/ejecta) - A Fast, Open Source JavaScript, Canvas & Audio Implementation for iOS.
 * :tada: [EnchantJS](http://enchantjs.com/) - A simple JavaScript framework for creating games and apps.
 * :tada: [EnTT](https://github.com/skypjack/entt) - Gaming meets modern C++, a fast and reliable entity-component system (ECS) and much more
@@ -257,6 +260,7 @@ Code
 * :tada: [Juno](https://github.com/rxi/juno) - Framework for making 2D games with chunky pixels in Lua
 * :tada: [Kivent](http://kivent.org/) - A 2D game framework for Kivy.
 * :tada: [Kivy](http://kivy.org) - Cross platform Python framework for creating apps and games for Linux, Windows, OS X, Android and iOS
+* :tada: [KogGE](https://korge.soywiz.com) - Modern Multiplatform Game Engine for Kotlin. Write games for the JVM, JavaScript, Android and iOS in no time using Kotlin.
 * :tada: [KiwiJS](http://www.kiwijs.org/) - a fun and friendly Open Source HTML5 Game Engine. Some people call it the WordPress of HTML5 game engines
 * :tada: [LibGDX](https://libgdx.badlogicgames.com/) - Powerful (totally free) library for Java, code once and run the game on desktop, Android, Web, and iOS.
 * :tada: [LimeJS](http://www.limejs.com/) - HTML5 game framework for building fast, native-experience games for all modern touchscreens and
@@ -274,6 +278,7 @@ Code
 * :tada: [MelonJS](http://melonjs.org) - open source light-weight HTML5 game engine.
 * :free: [Monkey2](http://monkeycoder.co.nz/) - Multi-platform programming language and cross-compiler, aimed at fast game programming.
 * :tada: [Monogame](http://www.monogame.net/) - Open Source implementation of the Microsoft XNA 4 Framework.
+* :tada: [Nakama](https://github.com/heroiclabs/nakama) - Distributed server for social and realtime games and apps.
 * :free: [NodeBox](https://www.nodebox.net/) - a family of Python tools to create generative design.
 * :tada: [nuklear](https://github.com/vurtun/nuklear) - A minimalistic immediate mode GUI toolkit written in ANSI C.
 * :tada: [ODE](http://www.ode.org/) - ODE is an open source, high performance library for simulating rigid body dynamics.
@@ -288,6 +293,7 @@ Code
 * :tada: [Panda3D](https://www.panda3d.org/) - a framework for 3D rendering and game development for Python and C++ programs.
 * :tada: [PandaJS](http://www.pandajs.net/) - Open Source HTML5 Engine.
 * :tada: [Phaser](http://phaser.io/) -  free and fast 2D game framework for making HTML5 games for desktop and mobile web browsers, supporting Canvas and WebGL rendering.
+* :tada: [phina.js](http://phinajs.com/) - A JavaScript game library that makes it easy to create games and tools.
 * :tada: [Piston](http://www.piston.rs/) - a modular open source game engine written in Rust.
 * :money_with_wings: [Pixel Vision 8](https://twitter.com/PixelVision8) - a framework designed to simulate your favorite 8-bit consoles.
 * :tada: [PixiJS](http://www.pixijs.com/) - is a newcomer HTML5 game renderer - first released in early 2013. A main appeal of the engine is its use of WebGL for faster performance. If WebGL isn't supported, the engine falls back to standard canvas.
@@ -409,6 +415,7 @@ Must see
 
 ### Books
 
+- :free: [2D Game Development: From Zero To Hero](https://gitlab.com/Penaz/2dgd_f0th)
 * [3D Math Primer for Graphics and Game Development](http://www.amazon.com/Math-Primer-Graphics-Game-Development/dp/1568817231/)
 * [Artificial Intelligence for Games](http://www.amazon.com/dp/0123747317?tag=game-prog-books-20)
 * [Essential Mathematics for Games and Interactive Applications: A Programmer's Guide](http://www.amazon.com/Essential-Mathematics-Games-Interactive-Applications/dp/0123742978/)
@@ -435,6 +442,7 @@ Must see
 * [Theory of Fun](http://www.amazon.com/Theory-Game-Design-Raph-Koster/dp/1449363210/)
 * [Tricks of the Windows Game Programming Gurus](http://www.amazon.com/Tricks-Windows-Game-Programming-Gurus/dp/0672313618)
 * [Unity in Action (book)](https://www.manning.com/books/unity-in-action-second-edition)
+* [Learn OpenGL: Beginner's guide to 3D rendering and game development with OpenGL and C++](https://www.amazon.de/Learn-OpenGL-Beginners-rendering-development/dp/1789340365/ref=sr_1_1_sspa?__mk_de_DE=%C3%85M%C3%85%C5%BD%C3%95%C3%91&keywords=OpenGl+3d+game&qid=1570646865&sr=8-1-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExTzM3UzZDT1ZYUzdCJmVuY3J5cHRlZElkPUEwMDIzMjkxMzJENlFTWkJNQzVCNCZlbmNyeXB0ZWRBZElkPUEwMzgyNTgzMUdUOElZTUtNUjlONCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=)
 
 ### Magazines
 
